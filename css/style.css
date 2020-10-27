@@ -504,9 +504,6 @@ display: flex;
   background-color: #ffffff;
   
 }
-.contacts_link:nth-of-type(1):before {
-  background-image: url('../img/png-transparent-computer-icons-twitter-logo-logo-monochrome-black.png');
-  }
 .copy {
   width: 100%;
   background-color: #f5f5f5;
