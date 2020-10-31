@@ -536,15 +536,15 @@ display: flex;
   filter: brightness(40%);
 }
 .contacts_link:nth-child(3):hover {
-  background-position: -96px 0;
+  background-position: -94px 0;
   filter: brightness(40%);
 }
 .contacts_link:nth-child(4):hover {
-  background-position: -144px 0;
+  background-position: -142px 0;
   filter: brightness(40%);
 }
 .contacts_link:nth-child(5):hover {
-  background-position: -191px 0;
+  background-position: -189px 0;
   filter: brightness(40%);
 }
 
